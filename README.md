@@ -1,4 +1,4 @@
-# Inventory-management-optimization
+# Optimizing Inventory Management for Efficient Supply Chain
 
 This project involves an Inventory Management analysis utilizing SQL and PowerBI. The analysis was conducted on Inventory, Production, and Sales data sourced from the AdventureWorks 2019 database. The dataset is based on a fictional company named 'FitCapacity' and aims to address specific operational challenges.
 
